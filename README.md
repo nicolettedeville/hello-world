@@ -1,2 +1,8 @@
 # hello-world
 My starter repository for my experiements
+
+Hello I am Nicolette Deville, self-taught web design/development and coding solver. Currently focusing on back end development and databasing languages. Managing databases is a new passion for me, but I find it no less fun and amazing as front end developement, which I've been practicing for 2 years now. Your projects coding needs could be just the fit for my next project choice. Large or small, if you project needs; clean-coded, updated, changed, or just simply brought into line with the rest of your business, call me. No worries if you have just an idea, free website, or a messy spaghetti coded nightmare of a website project on your hands. Let's Talk! visit www.nicolettedeville.tk and fill out a consultation form today!
+
+Why Hire Me?
+
+if you need a driven project web designer/developer. you will want to hire me if you want to take advantage of my current rates. As I am still somewhat new, my prices are still very reasonable. With the offer of a free thirty minute consoltation, there is no reason to wait. During our free thirty minute consoltation, we will determine which direction that you want to go. You will get valuable feedback about your project, which will help you decide your projects next stage. Remeber, your success is my success. The better your project does, the better my reputation. A reputation of clean and re-useable code. Code that include the languages: HTML5, CSS3, JavaScript and Jquery. A reputation of grasping and understand many frameworks including: Bootstrap, Codeigniter, Wordpress and others. Why hire me? Because you want to have a professional, clean coding, WC3 standard and ADA compliant web developer.
